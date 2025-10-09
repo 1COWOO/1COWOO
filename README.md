@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/1COWOO/1COWOO/main/image-1024x1024.png" width="120px" />
 </p>
 
