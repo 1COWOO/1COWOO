@@ -9,9 +9,9 @@
 <div style="margin-top: 20px;">
   ⚙️ 사용 중인 도구<br>
   • ☕ 서버 구동 자바 : GraalVM for JDK 22 <br>
-  • 서버 구동 OS : (Debian 12 Bookworm)<br>
+  • 🐧 서버 구동 OS : (Debian 12 Bookworm)<br>
   • ☕ 서버 소프트웨어 : Paper / Fabric / Plazma<br>
   • 📜 Skript<br>
-  • 🧰 Git & GitHub<br>
+  • 🧰 버전 관리 : Git & GitHub<br>
   • 🧠 에디터 : IntelliJ IDEA, Vim
 </div>
