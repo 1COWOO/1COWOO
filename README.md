@@ -12,5 +12,5 @@
   • ☕ 서버 소프트웨어 : Paper / Fabric / Plazma<br>
   • 📜 Skript<br>
   • 🧰 Git & GitHub<br>
-  • 🧠 에디터 : IntelliJ IDEA, vim
+  • 🧠 에디터 : IntelliJ IDEA, Vim
 </div>
