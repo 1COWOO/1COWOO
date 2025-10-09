@@ -5,6 +5,8 @@
 </p>
 
 <p>
+  
+  
   ⚙️ 사용 중인 도구<br>
   • ☕ 서버 구동 : GraalVM for JDK 22 (Debian 12 Bookworm)<br>
   • ☕ 서버 소프트웨어 : Paper / Fabric / Plazma<br>
