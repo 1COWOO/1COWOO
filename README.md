@@ -6,7 +6,7 @@
 
 <p align="center">취미로 마인크래프트 플러그인과 스크립트를 만드는 개발자입니다.</p>
 
-<p align="center">⚒️ 사용</p>
+<p align="center"># ⚒️ 사용</p>
 
 <div align="center">
 
