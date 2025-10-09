@@ -9,9 +9,9 @@
 <p align="center">⚙️사용 중인 도구</p>
 
 <p align="center">
-  • Paper / Fabric<br>
-  • Skript<br>
+  • ☕서버 구동 : GraalVM for JDK 22 with Debian 12(Bookworm)
+  • ☕Paper / Fabric<br>
+  • 📜Skript<br>
   • Git & GitHub<br>
   • IntelliJ IDEA<br>
-  • 서버 구동: GraalVM for JDK 22
 </p>
