@@ -5,11 +5,15 @@
 <h2 align="center">1COWOO</h2>
 
 <p align="center">취미로 마인크래프트 플러그인과 스크립트를 만드는 개발자입니다.</p>
----
 
-### ⚒️ 사용
+<h3 align="center">⚒️ 사용</h3>
 
-- 서버 구동시 Java - GraalVM
+<div align="center">
+
+- Paper/Fabric
 - Skript
 - Git & GitHub
 - IntelliJ IDEA
+- 서버 구동 : GraalVM for JDK 22
+
+</div>
