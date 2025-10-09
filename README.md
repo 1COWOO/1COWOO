@@ -9,8 +9,7 @@
 <p align="center">⚙️ 사용 중인 도구</p>
 
 <p align="center">
-  • ☕ 서버 구동 : GraalVM for JDK 22<br>
-  with Debian 12 (Bookworm)<br>
+  • ☕ 서버 구동 : GraalVM for JDK 22 (Debian 12 Bookworm)<br>
   • ☕ 서버 소프트웨어 : Paper / Fabric / Plazma<br>
   • 📜 Skript<br>
   • 🧰 Git & GitHub<br>
