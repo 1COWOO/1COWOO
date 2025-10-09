@@ -15,4 +15,4 @@
   • 🧰 버전 관리 : Git & GitHub<br>
   • 🧠 에디터 : IntelliJ IDEA, Vim
 </div>
-📺 <strong>YouTube:</strong> <a href="https://youtube.com/@yourchannel" target="_blank">@1COWOO</a>
+📺 <strong>YouTube:</strong> <a href="https://youtube.com/@KOWOO코우" target="_blank">@1COWOO</a>
