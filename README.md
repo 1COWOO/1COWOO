@@ -16,6 +16,7 @@
   • 🧠 에디터: IntelliJ IDEA, Vim
 </div>
 
+
 <div style="margin-top: 16px;">
   📺 <strong>YouTube:</strong> <a href="https://youtube.com/@KOWOO코우" target="_blank">@KOWOO코우</a>
 </div>
