@@ -3,6 +3,7 @@
   <div style="min-height: 120px; margin-left: 12px;">
     <strong style="font-size: 1.5em;">1COWOO</strong><br>
     취미로 마인크래프트 플러그인과 스크립트를 만드는 개발자입니다.
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A0F6&width=435&lines=%3E+Minecraft+is+a+Development+Tool)](https://git.io/typing-svg)
   </div>
 </div>
 
