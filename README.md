@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 <div style="display: flex; align-items: flex-start;">
   <img src="https://raw.githubusercontent.com/1COWOO/1COWOO/main/image-1024x1024.png" width="120px" />
   <div style="min-height: 120px; margin-left: 12px;">
