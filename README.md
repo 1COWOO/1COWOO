@@ -13,7 +13,7 @@
   • 🔧 서버 소프트웨어: Paper / Fabric / Plazma<br>
   • 📜 Skript<br>
   • 🧰 버전 관리: Git & GitHub<br>
-  • 🧠 에디터: IntelliJ IDEA, Vim
+  • 🧠 에디터: IntelliJ IDEA, NeoVim
 </div>
 
 
