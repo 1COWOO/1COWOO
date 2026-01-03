@@ -14,12 +14,11 @@
 
 <div style="line-height: 1.8;">
   <strong style="font-size: 1.2em;">⚙️ 사용 중인 도구</strong><br>
-  • ☕ <b>서버 구동 자바| </b> GraalVM for JDK 25<br>
-  • 🐧 <b>서버 OS | </b> Android With TERMUX
-  • 🔧 <b>서버 소프트웨어 | </b> Paper / Fabric / Plazma<br>
+  • ☕ <b>서버 구동 자바 |</b> GraalVM for JDK 25<br>
+  • 🐧 <b>서버 OS |</b> Android With TERMUX<br> • 🔧 <b>서버 소프트웨어 |</b> Paper / Fabric / Plazma<br>
   • 📜 <b>Skript</b><br>
-  • 🧰 <b>버전 관리 | </b> Git & GitHub<br>
-  • 🧠 <b>에디터 | </b> IntelliJ IDEA, NeoVim
+  • 🧰 <b>버전 관리 |</b> Git & GitHub<br>
+  • 🧠 <b>에디터 |</b> IntelliJ IDEA, NeoVim
 </div>
 
 <div style="margin-top: 15px;">
