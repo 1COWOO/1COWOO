@@ -23,7 +23,7 @@
 
 <div style="margin-top: 15px;">
   <strong style="font-size: 1.1em;">📺 YouTube</strong><br>
-  <a href="https://youtube.com/@KOWOO코우" target="_blank" style="text-decoration: none; color: #FF0000; font-weight: bold;">
-    @KOWOO코우
+  <a href="https://youtube.com/@KOWOO.코우" target="_blank" style="text-decoration: none; color: #FF0000; font-weight: bold;">
+    @KOWOO.코우
   </a>
 </div>
